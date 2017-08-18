@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: '/lmic'
+exclude: ['README.md']
+permalink: pretty
