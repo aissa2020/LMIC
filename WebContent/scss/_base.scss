@@ -1,0 +1,51 @@
+/* Variables */
+
+/* Colors */
+$black: #4A4A4A;
+
+$deep-grey: #C0C0C0;
+$grey: #E6E6E6;
+$light-grey: #EEEEEE;
+
+$white: #F9F9F9;
+$white-trans: transparentize($white, 0.5);
+
+
+$deep-blue: #284062;
+$blue: #94B9DA;
+
+$red: #FF6C6C;
+
+$green: #ACF29E;
+
+$orange: #F9BA85;
+
+/* Text Styles */
+$primary: $deep-blue;
+
+$primary-01: transparentize($primary, 0.9);
+$primary-02: transparentize($primary, 0.8);
+$primary-04: transparentize($primary, 0.6);
+$primary-05: transparentize($primary, 0.5);
+$primary-08: transparentize($primary, 0.2);
+
+$secondary: $blue;
+$secondary-01: transparentize($secondary, 0.9);
+$secondary-02: transparentize($secondary, 0.8);
+
+$link: #3366CC;
+$visited: $deep-blue;
+
+/* Font Families */
+$oxygen: "Oxygen", Helvetica, sans-serif;
+$text: $black;
+$search-wrapper-bg: $light-grey;
+
+/* Spacing */
+
+$unit: 10px;
+$half-unit: $unit / 2;
+$double-unit: $unit * 2;
+
+$bradius: $unit;
+$selection: $primary-02;
